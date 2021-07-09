@@ -25,5 +25,7 @@
 
 - [Mac 使用技巧](https://github.com/kamaihamaiha/Mac_Note.git)
 
+- [Android](https://github.com/kamaihamaiha/AndroidNote)
+
   
 
