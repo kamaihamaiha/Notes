@@ -23,7 +23,7 @@
 
 - [护肤](./Skin)
 
-- [Mac 使用技巧](./Mac_Note)
+- [Mac 使用技巧](https://github.com/kamaihamaiha/Mac_Note.git)
 
   
 
