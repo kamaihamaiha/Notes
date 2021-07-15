@@ -1,3 +1,6 @@
 [submodule "Mac_Note"]
 	path = Mac_Note
 	url = https://github.com/kamaihamaiha/Mac_Note.git
+[submodule "AndroidNote"]
+	path = AndroidNote
+	url = https://github.com/kamaihamaiha/AndroidNote.git
